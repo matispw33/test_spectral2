@@ -4,6 +4,8 @@ x-stoplight:
 info:
   title: style_testapi2
   version: '1.0'
+  summary: ''
+  description: test
 servers:
   - url: 'http://localhost:3000'
 paths:
@@ -20,7 +22,7 @@ paths:
       tags: []
       responses:
         '200':
-          description: User Foundk,ssssssssss,,
+          description: 'User Foundk,ssssssssss,,'
           content:
             application/json:
               schema:
