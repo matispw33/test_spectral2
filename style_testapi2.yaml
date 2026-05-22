@@ -5,7 +5,7 @@ info:
   title: style_testapi2
   version: '1.0'
   summary: ''
-  description: test
+  description: testssss
 servers:
   - url: 'http://localhost:3000'
 paths:
